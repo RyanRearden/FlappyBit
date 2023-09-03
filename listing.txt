@@ -1,0 +1,26 @@
+ Volume in drive C is OS
+ Volume Serial Number is 6053-698C
+
+ Directory of C:\Users\Ryan\Documents\UDFALL2022\CompSci\CompSciFinal
+
+12/03/2022  04:11 PM    <DIR>          .
+12/03/2022  04:11 PM    <DIR>          ..
+11/13/2022  06:59 PM             4,048 binary.txt
+11/13/2022  04:32 PM            27,434 compscisign-final.png
+12/03/2022  04:09 PM            86,999 FinalProject - Copy - Copy.2
+12/02/2022  08:52 AM            18,695 FinalProject - Copy - Copy.bak
+12/02/2022  09:32 AM            18,975 FinalProject - Copy - Copy.rkt
+11/30/2022  09:41 AM            11,529 FinalProject - Copy.bak
+12/02/2022  08:52 AM            18,695 FinalProject - Copy.rkt
+11/11/2022  12:37 PM               134 FinalProject.bak
+11/13/2022  08:17 PM            11,478 FinalProject.rkt
+11/12/2022  03:19 PM               432 FinalProjectSANDBOX.bak
+11/13/2022  05:02 PM               578 FinalProjectSANDBOX.rkt
+12/03/2022  04:08 PM    <DIR>          GIF
+12/02/2022  09:45 AM         3,855,399 giphy.gif
+11/13/2022  06:59 PM             2,496 hex.txt
+12/02/2022  09:31 AM             3,102 HexSqr.png
+11/12/2022  02:34 PM             3,555 hextobi.txt
+12/03/2022  04:11 PM                 0 listing.txt
+              16 File(s)      4,063,549 bytes
+               3 Dir(s)  565,754,101,760 bytes free
