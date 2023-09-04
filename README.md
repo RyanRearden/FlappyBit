@@ -51,7 +51,10 @@
 </p>
 
 This project was made for my Introduction to Computer Science class during the Fall of 2022. It was heavily inspired by 
-<a href="https://flippybitandtheattackofthehexadecimalsfrombase16.com/ "> <br> Flippy Bit And The Attack Of The Hexadecimals From Base 16</a>
+<a href="https://flippybitandtheattackofthehexadecimalsfrombase16.com/ "> <br> Flippy Bit And The Attack Of The Hexadecimals From Base 16 </a>
+<br>
+<br>
+Although the game was inspired by this. I wrote all of the code myself
 
 Objectives:
 * Use keys a - k to convert type a binary value
@@ -110,10 +113,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
 * [Background Image URL](https://www.reddit.com/r/PixelArt/comments/ilyubh/clouds_by_yuukimokuya/)
-* [Game this was inspired by](https://flippybitandtheattackofthehexadecimalsfrombase16.com/)
+* [Original Game](https://flippybitandtheattackofthehexadecimalsfrombase16.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
